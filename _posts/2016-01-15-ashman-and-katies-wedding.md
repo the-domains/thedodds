@@ -17,7 +17,7 @@ keywords:
   - helman
   - groom
 description: "James is the best man and has been a trustworthy friend and like a brother to the groom. From soccer to bowling, elementary school to college, he has always been there for Ashman and had his back. Many of Ashman's best memories are shared with James and he couldn't imagine a more suitable best man."
-datePublished: '2016-01-15T21:15:09.968Z'
+datePublished: '2016-01-15T21:15:09.989Z'
 dateModified: '2016-01-15T21:15:09.802Z'
 author: []
 related: []
