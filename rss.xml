@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheDodds]]></title>
+        <description><![CDATA[TheDodds]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 20:53:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ashman & Katie's Wedding]]></title>
+            <description><![CDATA[<article><h1>Ashman & Katie's Wedding</h1><p>James is the best man and has been a trustworthy friend and like a brother to the groom. From soccer to bowling, elementary school to college, he has always been there for Ashman and had his back. Many of Ashman's best memories are shared with James and he couldn't imagine a more suitable best man.</p><img src="http://doddwedding.info/images/reception.jpg"></article>]]></description>
+            <link>http://doddwedding.info/index-pre.html</link>
+            <guid isPermaLink="false">ae9aac49-9df9-4987-962e-513189bb9970</guid>
+            <pubDate>Fri, 15 Jan 2016 20:53:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
