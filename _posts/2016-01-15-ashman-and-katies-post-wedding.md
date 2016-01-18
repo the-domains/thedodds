@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to Ashman Dodd and Katie Dodd's wedding page! Announcement that Katelynn Weber of Keyser, WV and Ashman Dodd or Romney, WV are getting married on October 4 2014."
-datePublished: '2016-01-18T15:14:34.615Z'
+datePublished: '2016-01-18T15:14:34.603Z'
 dateModified: '2016-01-18T15:14:32.233Z'
 author: []
 related: []
